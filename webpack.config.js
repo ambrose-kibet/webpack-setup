@@ -36,7 +36,7 @@ module.exports = {
     new HTMLWebpackPlugin({
       title: 'webpack App',
       filename: 'index.html',
-      template: 'src/root.html',
+      template: 'src/index.html',
     }),
   ],
 };
